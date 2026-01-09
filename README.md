@@ -1,2 +1,1 @@
-# wpu-resolusi
-Repository untuk menyimpan rencana WPU kedepannya
+resolusi 2026-2027
